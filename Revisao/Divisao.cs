@@ -35,7 +35,7 @@ namespace Revisao
             finally
             {
                 MessageBox.Show("Vai executar de qualquer forma!");
-            }
+            }//oi
             
 
         }
